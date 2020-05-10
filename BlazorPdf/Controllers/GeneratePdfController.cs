@@ -17,9 +17,7 @@ namespace PdfGenerator.Controllers
         {
             var pdfGenerator = new BlazorPdf.GeneratePdf($"https://{Request.Host.Value}/");
             var pdf = pdfGenerator.getPdf();
-            var pdfStream = new System.IO.MemoryStream();
-            pdfStream.Write(pdf, 0, pdf.Length);
-            pdfStream.Position = 0;
+            var pdfStream = new System.IO.MemoryStream(pdf);            
             return new FileStreamResult(pdfStream, "application/pdf");
         }
     }
