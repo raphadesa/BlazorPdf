@@ -1,11 +1,5 @@
 # BlazorPdf
 
-Simply use this nuget Package : 
-
-Install-Package BlazorPdf
-
-And then :
-
 <pre style="font-family:Consolas;font-size:13px;color:gainsboro;background:#1e1e1e;">[<span style="color:#4ec9b0;">Route</span>(<span style="color:#d69d85;">&quot;[controller]&quot;</span>)]
 [<span style="color:#4ec9b0;">ApiController</span>]
 <span style="color:#569cd6;">public</span>&nbsp;<span style="color:#569cd6;">class</span>&nbsp;<span style="color:#4ec9b0;">GeneratePdfController</span>&nbsp;:&nbsp;<span style="color:#4ec9b0;">ControllerBase</span>&nbsp;
