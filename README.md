@@ -2,7 +2,7 @@
 
 Simply use this nuget Package : 
 
-Install-Package BlazorInputMask
+Install-Package BlazorPdf
 
 And then :
 
