@@ -4,7 +4,7 @@ Get it from nuget:
 
 install-package BlazorPdf
 
-Download wkhtmltopdf.exe from here https://github.com/wkhtmltopdf/wkhtmltopdf/releases and put it on your root path.
+Download wkhtmltopdf.exe from here https://github.com/raphadesa/BlazorPdf/blob/master/BlazorPdf/Rotativa/wkhtmltopdf.exe and put it on your root path.
 
 <pre style="font-family:Consolas;font-size:13px;color:gainsboro;background:#1e1e1e;">[<span style="color:#4ec9b0;">Route</span>(<span style="color:#d69d85;">&quot;[controller]&quot;</span>)]
 [<span style="color:#4ec9b0;">ApiController</span>]
