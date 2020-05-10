@@ -6,6 +6,8 @@ Get it from nuget:
 
 install-package BlazorPdf
 
+Note: The executable wkhtmltopdf.exe is automatically copied to your local project upon first execution, and is saved under the Rotativa folder.
+
 <pre style="font-family:Consolas;font-size:13px;color:gainsboro;background:#1e1e1e;"><span style="color:#569cd6;">public</span>&nbsp;<span style="color:#569cd6;">class</span>&nbsp;<span style="color:#4ec9b0;">GeneratePdfController</span>&nbsp;:&nbsp;<span style="color:#4ec9b0;">Controller</span>
 &nbsp;&nbsp;&nbsp;&nbsp;{
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<span style="color:#4ec9b0;">HttpGet</span>]
