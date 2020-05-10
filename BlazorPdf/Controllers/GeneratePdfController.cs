@@ -6,10 +6,8 @@ using System.Net;
 using System.Threading.Tasks;
 
 namespace PdfGenerator.Controllers
-{
-    [Route("[controller]")]
-    [ApiController]
-    public class GeneratePdfController : ControllerBase 
+{    
+    public class GeneratePdfController : Controller 
     {    
         [HttpGet]
         [Route("DownloadPdf")]
