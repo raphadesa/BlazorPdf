@@ -1,6 +1,6 @@
 # BlazorPdf
 
-[](https://hvpqla.am.files.1drv.com/y4mTnteP-0iRysuZmGHcDO0-9Kn6So_XFfeHJJ3AamO2ie2JiU38WMpKVoLzdH-_qeCGCwyElsv3kMgimyzE-9MnhW140O3nWnQEpwldBUkMrDdcIn5Br1JeNXV4bnpWP3itfDo7WIwCv5JYCrpjMRbYdor9E8fHnZd0WwWeF8UOzSH1z_sWOLlJWzKQBAUCCuriYNHt6Nq-oZSYaQcShOMuQ/BlazorPdf.gif?psid=1)
+![](https://hvpqla.am.files.1drv.com/y4mTnteP-0iRysuZmGHcDO0-9Kn6So_XFfeHJJ3AamO2ie2JiU38WMpKVoLzdH-_qeCGCwyElsv3kMgimyzE-9MnhW140O3nWnQEpwldBUkMrDdcIn5Br1JeNXV4bnpWP3itfDo7WIwCv5JYCrpjMRbYdor9E8fHnZd0WwWeF8UOzSH1z_sWOLlJWzKQBAUCCuriYNHt6Nq-oZSYaQcShOMuQ/BlazorPdf.gif?psid=1)
 
 Based on wkhtmltopdf.exe
 
