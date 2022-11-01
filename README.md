@@ -22,3 +22,5 @@ Note: The executable wkhtmltopdf.exe is automatically copied to your local proje
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#d8a0df;">return</span>&nbsp;<span style="color:#569cd6;">new</span>&nbsp;<span style="color:#4ec9b0;">FileStreamResult</span>(<span style="color:#9cdcfe;">pdfStream</span>,&nbsp;<span style="color:#d69d85;">&quot;application/pdf&quot;</span>);
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
 &nbsp;&nbsp;&nbsp;&nbsp;}</pre>
+
+"This project is licensed under the terms of the MIT license."
