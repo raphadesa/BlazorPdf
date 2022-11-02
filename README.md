@@ -23,4 +23,3 @@ Note: The executable wkhtmltopdf.exe is automatically copied to your local proje
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
 &nbsp;&nbsp;&nbsp;&nbsp;}</pre>
 
-"This project is licensed under the terms of the MIT license."
